@@ -1,0 +1,23 @@
+html,
+body {
+  height: 100%;
+}
+body {
+  background-color: Lavender;
+}
+.container {
+  padding-top: 1em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.button-row {
+  margin-top: 1em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.button-row button {
+  margin-left: 1em;
+  height: 2em;
+}
