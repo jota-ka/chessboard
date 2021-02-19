@@ -27,6 +27,9 @@ body {
 }
 
 @media (max-width: 600px) {
+  html {
+    width: 100%;
+  }
   #board2 {
     width: 400px;
   }
