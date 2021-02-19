@@ -21,3 +21,13 @@ body {
   margin-left: 1em;
   height: 2em;
 }
+
+#board2 {
+  width: 500px;
+}
+
+@media (max-width: 600px) {
+  #board2 {
+    width: 360px;
+  }
+}
